@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "One more time, One more chance",
+  "base_artist": "Masayoshi Yamazaki",
+  "createdAt": "2026-01-06T08:21:21.740407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One more time, One more chance",
+      "artist": "山崎まさよし",
+      "has_synced": true,
+      "path": "select/01_One_more_time,_One_more_chance_山崎まさよし.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One more time, One more chance",
+      "artist": "つるの剛士",
+      "has_synced": false,
+      "path": "select/02_One_more_time,_One_more_chance_つるの剛士.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One more time, One more chance",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/03_One_more_time,_One_more_chance_Uru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One more time, One more chance",
+      "artist": "Juju",
+      "has_synced": true,
+      "path": "select/04_One_more_time,_One_more_chance_Juju.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One More Time, One More Chance",
+      "artist": "Beni",
+      "has_synced": true,
+      "path": "select/05_One_More_Time,_One_More_Chance_Beni.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One more time, One more chance",
+      "artist": "山崎まさよし",
+      "has_synced": true,
+      "path": "select/06_One_more_time,_One_more_chance_山崎まさよし.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One more time，One more chance - One More Time,One More Chance",
+      "artist": "Masayoshi Yamazaki",
+      "has_synced": true,
+      "path": "select/07_One_more_time,One_more_chance_-_One_More_Time,One_More_Chance_Masayoshi_Yamazaki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "03.One more time, One more chance",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/08_03.One_more_time,_One_more_chance_Uru.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One more time, One more chance",
+      "artist": "Masayoshi Yamazaki",
+      "has_synced": true,
+      "path": "select/09_One_more_time,_One_more_chance_Masayoshi_Yamazaki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One more time, One more chance",
+      "artist": "Masayoshi Yamazaki",
+      "has_synced": true,
+      "path": "select/10_One_more_time,_One_more_chance_Masayoshi_Yamazaki.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One more time, One more chance",
+      "artist": "丸本莉子",
+      "has_synced": false,
+      "path": "select/11_One_more_time,_One_more_chance_丸本莉子.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One more time, One more chance",
+      "artist": "Yamazaki Masayoshi",
+      "has_synced": true,
+      "path": "select/12_One_more_time,_One_more_chance_Yamazaki_Masayoshi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One more time, One more chance",
+      "artist": "Maiko Fujita",
+      "has_synced": true,
+      "path": "select/13_One_more_time,_One_more_chance_Maiko_Fujita.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One more time, One more chance",
+      "artist": "Sung Si Kyung",
+      "has_synced": false,
+      "path": "select/14_One_more_time,_One_more_chance_Sung_Si_Kyung.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One more time, One more chance",
+      "artist": "中島美嘉",
+      "has_synced": false,
+      "path": "select/15_One_more_time,_One_more_chance_中島美嘉.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "One More Time, One More Chance",
+      "artist": "Masayoshi Yamazaki",
+      "has_synced": true,
+      "path": "select/16_One_More_Time,_One_More_Chance_Masayoshi_Yamazaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One More Time, One More Chance",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_01_One_More_Time,_One_More_Chance_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "One more time, One more chance",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_02_One_more_time,_One_more_chance_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "One more time, One more chance",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_03_One_more_time,_One_more_chance_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "One More Time, One More Chance",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_04_One_More_Time,_One_More_Chance_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "One more time, One more chance",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_05_One_more_time,_One_more_chance_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "One more time, One more chance",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_06_One_more_time,_One_more_chance_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "One more time, One more chance",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_07_One_more_time,_One_more_chance_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "One more time, One more chance",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_08_One_more_time,_One_more_chance_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "One more time, One more chance",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_09_One_more_time,_One_more_chance_山崎_まさよし.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "One more time, One more chance",
+      "artist": "山崎 まさよし",
+      "has_synced": false,
+      "path": "select/pl_10_One_more_time,_One_more_chance_山崎_まさよし.txt"
+    }
+  ]
+}
